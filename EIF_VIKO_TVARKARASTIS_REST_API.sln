@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EIF_VIKO_TVARKARASTIS_REST_API", "EIF_VIKO_TVARKARASTIS_REST_API.csproj", "{448F7335-7665-4E2D-B17F-FF6D67DE9707}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{448F7335-7665-4E2D-B17F-FF6D67DE9707}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{448F7335-7665-4E2D-B17F-FF6D67DE9707}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{448F7335-7665-4E2D-B17F-FF6D67DE9707}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{448F7335-7665-4E2D-B17F-FF6D67DE9707}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2FD7206D-F1E7-443D-BA94-DDF15304E6B0}
+	EndGlobalSection
+EndGlobal
